@@ -1,0 +1,3 @@
+"use Strict";
+
+alert("hello");
